@@ -1,0 +1,4 @@
+Customer_ID:101	Customer_Name:kishor customer_address:chennai salary:50000
+Customer_ID:103 Customer_Name:niranjan customer_address:thirunelveli salary:60000
+Customer_ID:102 Customer_Name:surya customer_address:cuddalore salary:70000
+Customer_ID:104 Customer_Name:jayasurya customer_address:sivagangai salary:890000
